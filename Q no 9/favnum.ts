@@ -1,2 +1,8 @@
+/* Q no 9
+Favorite Number: Store your favorite number in a variable.
+Then, using that variable, create a message that reveals your favorite number.
+Print that message.*/
 let n : number = 18;
-console.log("You favourite number is ",n);
+let message : string = `"My favourite number is ${n}"`;
+console.log(message);
+
