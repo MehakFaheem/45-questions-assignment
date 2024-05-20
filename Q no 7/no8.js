@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let num1 = 4;
+let num2 = 4;
+console.log("4 + 4 = ", num1 + num2);
+let num3 = 12;
+let num4 = 4;
+console.log("12 + 4 = ", num3 - num4);
+let num5 = 2;
+let num6 = 4;
+console.log("2 * 4 = ", num5 * num6);
+let num7 = 16;
+let num8 = 2;
+console.log("4/4 = ", num7 / num8);
